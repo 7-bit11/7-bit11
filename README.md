@@ -12,6 +12,6 @@
 - ⚡ Fun fact: ...
 -->
 ![7_bit GitHub stats](https://github-readme-stats.vercel.app/api?username=7-bit11&count_private=true&show_icons=true)
-<img src=./refresh.gif align="left" width=100 />
+<img src=./refresh.gif align="right" width=50 />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7-bit11&layout=donut)
