@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am a Flutter developer from China ❤ Practice duration of two and a half years
 
 <!-- is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
