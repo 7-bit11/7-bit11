@@ -10,6 +10,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7-bit11&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+![Anurag's GitHub stats](https://github-readme-stats-one-bice.vercel/api?username=7-bit11&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7-bit11&layout=donut)
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=7-bit11)
