@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Flutter&Harmony&Android <img src=./refresh.gif align="right" width=50 />
+- 🌱 I’m currently learning Flutter&Harmony&Android
   
 - 📫 How to reach me: 210014468@qq.com
   
